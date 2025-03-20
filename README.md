@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/aminulhaque" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="aminulhaque" height="30" width="40" /></a>
+<a href="https://dev.to/aminulhoque01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="aminulhaque" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/aminulhaque0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aminulhaque0/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/aminul.haque.web" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/aminul.haque.web" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.com/invite/Aminul#7419" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/invite/Aminul#7419" height="30" width="40" /></a>
