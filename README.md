@@ -1,6 +1,6 @@
 ![Mern Stack Developer](https://i.ibb.co.com/MDf6p8sc/git.gif)
 ### Hi there 👋, my name is Aminul Haque 
-#### Mern Stack Developer 
+#### Backend focus Full Stack Developer 
  
 I am a passionate MERN stack developer with a strong focus on TypeScript and Next.js. With a solid foundation in both frontend and backend development, I excel at creating dynamic, high-performance web applications that deliver exceptional user experiences. My expertise extends to Redux and RTK Query, enabling me to manage application state effectively and streamline API interactions.
  
@@ -11,7 +11,7 @@ When I'm not coding, I love exploring new technologies, staying up-to-date with 
 Skills:   HTML / CSS / JS / TS  / REACT / NEXT.JS / NODE / EXPRESS / MONGODB / POSTGRESQL / DOCKER / PRISMA / REDIS / 
  
 - 🌱 I’m currently learning  AWS
-- 👯 I’m looking to collaborate on open source project 
+- 👯 I’m looking to collaborate on an open source project 
 - 💬 Ask me about Web Development 
 - 📫 How to reach me: aminuhoque53@gmail.com
  
