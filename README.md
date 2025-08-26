@@ -1,4 +1,4 @@
-![Mern Stack Developer]((https://i.ibb.co.com/MDf6p8sc/git.gif))
+![Mern Stack Developer](https://i.ibb.co.com/MDf6p8sc/git.gif)
 ### Hi there 👋, my name is Aminul Haque 
 #### Mern Stack Developer 
  
