@@ -30,5 +30,6 @@ Skills:   HTML / CSS / JS / TS  / REACT / NEXT.JS / NODE / EXPRESS / MONGODB / P
  
  
 
-![GitHub Streak Stats](https://streak-stats.demolab.com/?user=Aminulhoque01)
+![GitHub streak](https://streak-stats.demolab.com/?user=Aminulhoque01) 
+ 
  
