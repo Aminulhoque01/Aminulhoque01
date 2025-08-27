@@ -27,7 +27,7 @@ Skills:   HTML / CSS / JS / TS  / REACT / NEXT.JS / NODE / EXPRESS / MONGODB / P
  
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Aminulhoque01/contributions?format=svg&private=fals… ) 
  
-<img src='https://github-readme-activity-graph.vercel.app/graph?username=Aminulhoque01'/> 
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aminulhoque01&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 
 
  
