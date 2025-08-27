@@ -30,6 +30,6 @@ Skills:   HTML / CSS / JS / TS  / REACT / NEXT.JS / NODE / EXPRESS / MONGODB / P
  
  
 
-(https://streak-stats.demolab.com/?user=Aminulhoque01) 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
  
  
