@@ -29,6 +29,5 @@ Skills:   HTML / CSS / JS / TS  / REACT / NEXT.JS / NODE / EXPRESS / MONGODB / P
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Aminulhoque01/contributions?format=svg&private=fals… ) 
  
 ![GitHub Metrics](https://metrics.lecoq.io/Aminulhoque01)
+![GitHub Streak Stats]([https://streak-stats.demolab.com/?user=Aminulhoque01](https://streak-stats.demolab.com/?user=Aminulhoque01))
  
-![GitHub Streak Stats](https://streak-stats.demolab.com/?user=Aminulhoque01)
-![Mern Stack Developer](https://i.ibb.co.com/MDf6p8sc/git.gif)
